@@ -1,6 +1,6 @@
 {
-  "name": "@olszowski.j/randomid-generator",
-  "version": "1.0.0",
+  "name": "@olszowskijacek/randomid-generator",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/olszowskijacek/Unique-ID-generator.git",
   "author": "Jacek Olszowski <jacek.olszowski1@gmail.com>",
